@@ -1,5 +1,5 @@
+![Architecture](architecture.png)
 # AI SQL Analytics System using MCP
-
 An AI-powered SQL analytics system that allows users to query a MySQL database using **natural language**.
 The system converts user questions into SQL queries, executes them through a **Model Context Protocol (MCP) server**, and generates **visualizations and insights automatically**.
 
