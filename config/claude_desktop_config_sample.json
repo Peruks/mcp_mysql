@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mysql-tools": {
+      "command": "python",
+      "args": [
+        "C:\\mcp_mysql_project\\db_mcp_server.py"
+      ]
+    }
+  }
+}
