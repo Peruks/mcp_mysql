@@ -1,10 +1,12 @@
 # AI SQL Analytics System using MCP
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![MCP](https://img.shields.io/badge/Protocol-MCP-green)
 ![Claude](https://img.shields.io/badge/AI-Claude-purple)
 ![Status](https://img.shields.io/badge/Project-Portfolio-success)
+
+
 An AI-powered SQL analytics system that allows users to query a MySQL database using **natural language**.
 The system converts user questions into SQL queries, executes them through a **Model Context Protocol (MCP) server**, and generates **visualizations and insights automatically**.
 
